@@ -1,7 +1,7 @@
 package com.vaannila.domain;
 
 public class User {
-/*user bean   */
+/*user bean   sajid*/
 	private String name;
 	private String password;
 	private String gender;
